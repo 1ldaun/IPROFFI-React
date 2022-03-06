@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="Сгруппировать_3985" data-name="Сгруппировать 3985" transform="translate(0 0)">
+    <g id="rectangle" transform="translate(0 45) rotate(-90)" fill="#ebebea" stroke="#ebebea" strokeWidth="1" opacity="0">
+      <rect width="45" height="45" rx="6" stroke="none"/>
+      <rect x="0.5" y="0.5" width="44" height="44" rx="5.5" fill="none"/>
+    </g>
+    <rect id="rectangle-2" data-name="rectangle" width="45" height="45" rx="6" transform="translate(0 45) rotate(-90)" fill="none"/>
+    <rect id="Прямоугольник_907" data-name="Прямоугольник 907" width="45" height="45" rx="5" transform="translate(0 45) rotate(-90)" fill="none" opacity="0"/>
+    <path id="Контур_2163" data-name="Контур 2163" d="M9.882,9.121.919.158A.538.538,0,0,0,.158.919L8.739,9.5.158,18.08a.536.536,0,0,0,0,.761A.541.541,0,0,0,.537,19a.525.525,0,0,0,.378-.159L9.878,9.878A.535.535,0,0,0,9.882,9.121Z" transform="translate(32.242 17.963) rotate(90)"/>
+  </g>
+</svg>

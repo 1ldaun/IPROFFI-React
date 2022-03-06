@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Сгруппировать_3238" data-name="Сгруппировать 3238" transform="translate(-315 -737)">
+    <g id="rectangle" transform="translate(315 737)" fill="#ebebea" stroke="#ebebea" strokeWidth="1">
+      <rect width="40" height="40" rx="6" stroke="none"/>
+      <rect x="0.5" y="0.5" width="39" height="39" rx="5.5" fill="none"/>
+    </g>
+    <g id="Сгруппировать_3236" data-name="Сгруппировать 3236" transform="translate(-209 1078) rotate(-90)">
+      <g id="Контур_1206" data-name="Контур 1206" transform="translate(311 534)" fill="none">
+        <path d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" stroke="none"/>
+        <path d="M 10 1 C 5.037380218505859 1 1 5.037380218505859 1 10 C 1 14.96261978149414 5.037380218505859 19 10 19 C 14.96261978149414 19 19 14.96261978149414 19 10 C 19 5.037380218505859 14.96261978149414 1 10 1 M 10 0 C 15.52285003662109 0 20 4.477149963378906 20 10 C 20 15.52285003662109 15.52285003662109 20 10 20 C 4.477149963378906 20 0 15.52285003662109 0 10 C 0 4.477149963378906 4.477149963378906 0 10 0 Z" stroke="none" fill="#9e9e9e"/>
+      </g>
+      <g id="Сгруппировать_1743" data-name="Сгруппировать 1743" transform="translate(316.313 540.361)">
+        <path id="Контур_1205" data-name="Контур 1205" d="M0,3.412,3.412,0,6.823,3.412" transform="translate(9.73) rotate(90)" fill="none" stroke="#9e9e9e" stroke-linecap="round" stroke-linejoin="round" strokeWidth="1"/>
+        <line id="Линия_24" data-name="Линия 24" x2="9.581" transform="translate(0 3.313)" fill="none" stroke="#9e9e9e" stroke-linecap="round" strokeWidth="1"/>
+      </g>
+    </g>
+  </g>
+</svg>

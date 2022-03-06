@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="25.5" height="25" viewBox="0 0 25.5 25">
+  <g id="Сгруппировать_3792" data-name="Сгруппировать 3792" transform="translate(-101 -183)">
+    <circle id="Эллипс_557" data-name="Эллипс 557" cx="12.5" cy="12.5" r="12.5" transform="translate(101 183)" fill="#f8f8f7"/>
+    <g id="Сгруппировать_3791" data-name="Сгруппировать 3791" transform="translate(-3 -356)">
+      <path id="ellipse" d="M12.5,0A12.5,12.5,0,1,1,0,12.5,12.5,12.5,0,0,1,12.5,0Z" transform="translate(104.5 539)" fill="none"/>
+      <path id="path" d="M5.6,11.374l3.768,3.468L18.121,6.9" transform="translate(105.461 541.224)" fill="none" stroke="#3b7bf6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" stroke-width="1"/>
+    </g>
+  </g>
+</svg>

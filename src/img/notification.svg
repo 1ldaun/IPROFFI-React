@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="45" height="45" viewBox="0 0 45 45">
+  <g id="Сгруппировать_5322" data-name="Сгруппировать 5322" transform="translate(-53 -195)">
+    <circle id="Эллипс_558" data-name="Эллипс 558" cx="22.5" cy="22.5" r="22.5" transform="translate(53 195)" fill="#2979ff"/>
+    <g id="bell" transform="translate(61.588 204)">
+      <path id="Контур_2357" data-name="Контур 2357" d="M7.093,2.353H13q3.546,0,4.728-2.353V18.824Q16.549,16.471,13,16.471H7.093A7.076,7.076,0,0,1,0,9.412H0A7.076,7.076,0,0,1,7.093,2.353Z" transform="translate(22.824 3) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+      <path id="Контур_2358" data-name="Контур 2358" d="M0,4.537A2.269,2.269,0,0,0,0,0" transform="translate(15.68 20.731) rotate(90)" fill="none" stroke="#fff" stroke-linecap="round" stroke-linejoin="round" stroke-width="1.2"/>
+    </g>
+  </g>
+</svg>

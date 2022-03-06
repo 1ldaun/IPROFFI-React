@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="20" viewBox="0 0 20 20">
+  <g id="Сгруппировать_3662" data-name="Сгруппировать 3662" transform="translate(-233 -112)">
+    <g id="Эллипс_555" data-name="Эллипс 555" transform="translate(233 112)" fill="none" stroke="#fff" strokeWidth="1">
+      <circle cx="10" cy="10" r="10" stroke="none"/>
+      <circle cx="10" cy="10" r="9.5" fill="none"/>
+    </g>
+    <g id="Сгруппировать_3617" data-name="Сгруппировать 3617" transform="translate(-35.421 360.979) rotate(-45)">
+      <line id="Линия_3" data-name="Линия 3" x2="9.812" y2="0.087" transform="translate(362.282 31.274) rotate(-45)" fill="none" stroke="#fff" strokeWidth="1"/>
+      <line id="Линия_4" data-name="Линия 4" y1="0.087" x2="9.812" transform="translate(362.344 24.275) rotate(45)" fill="none" stroke="#fff" strokeWidth="1"/>
+    </g>
+  </g>
+</svg>

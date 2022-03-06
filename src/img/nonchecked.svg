@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="21" height="21" viewBox="0 0 21 21">
+  <g id="Компонент_3_29" data-name="Компонент 3 – 29" transform="translate(0.5 0.5)">
+    <path id="ellipse" d="M10,0A10,10,0,1,1,0,10,10,10,0,0,1,10,0Z" fill="none" stroke="#9e9e9e" stroke-linecap="round" strokeWidth="1"/>
+    <path id="path" d="M5.6,10.629l2.89,2.89L15.2,6.9" transform="translate(-0.132 0.258)" fill="none" stroke="#3b7bf6" stroke-linecap="round" stroke-linejoin="round" stroke-miterlimit="10" strokeWidth="1" opacity="0"/>
+  </g>
+</svg>
